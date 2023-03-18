@@ -1,0 +1,21 @@
+{
+  "name": "orangey-color-theme",
+  "displayName": "Orangey Color Theme",
+  "description": "Your VSCode Orange Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orangey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-color-theme.json"
+      }
+    ]
+  }
+}
