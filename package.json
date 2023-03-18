@@ -1,7 +1,10 @@
 {
-  "name": "orangey-color-theme",
-  "displayName": "Orangey Color Theme",
-  "description": "Your VSCode Orange Theme",
+  "name": "orangey-vscode-theme",
+  "displayName": "Orangey | Color Theme",
+  "description": "Warm Dark Theme for VSCode 🌞",
+  "publisher": "ricafolio",
+  "repository": "https://github.com/ricafolio/orangey-vscode-theme",
+  "icon": "img/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
