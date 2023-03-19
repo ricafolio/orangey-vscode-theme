@@ -4,7 +4,7 @@
   "description": "Warm Dark Theme for VSCode 🌞",
   "publisher": "ricafolio",
   "repository": "https://github.com/ricafolio/orangey-vscode-theme",
-  "icon": "https://i.imgur.com/0RZ7BqZ.png",
+  "icon": "/img/icon.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
