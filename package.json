@@ -28,6 +28,16 @@
         "label": "Orangey (Lighter 2)",
         "uiTheme": "vs-dark",
         "path": "./themes/Orangey-Lighter-2.json"
+      },
+      {
+        "label": "Orangey (Darker 1)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Darker-1.json"
+      },
+      {
+        "label": "Orangey (Darker 2)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Darker-2.json"
       }
     ]
   }
