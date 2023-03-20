@@ -11,10 +11,10 @@ This VSCode theme is designed with warm and muted colors, making it an excellent
 
 # Preview
 <p align="center">
-  <img src="https://i.imgur.com/58JwKs4.png" alt="Screenshot #1" />
+  <img src="https://i.imgur.com/viVGS9w.png" alt="Screenshot #1" />
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/bXWiT5v.png" alt="Screenshot #2" />
+  <img src="https://i.imgur.com/6edtQAI.png" alt="Screenshot #2" />
 </p>
 
 # Installation
