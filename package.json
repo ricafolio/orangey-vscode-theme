@@ -4,8 +4,8 @@
   "description": "Warm Dark Theme for VSCode 🌞",
   "publisher": "ricafolio",
   "repository": "https://github.com/ricafolio/orangey-vscode-theme",
-  "icon": "/img/icon.png",
-  "version": "1.0.0",
+  "icon": "https://i.imgur.com/0RZ7BqZ.png",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -17,7 +17,27 @@
       {
         "label": "Orangey",
         "uiTheme": "vs-dark",
-        "path": "./themes/Orangey-color-theme.json"
+        "path": "./themes/Orangey.json"
+      },
+      {
+        "label": "Orangey (Lighter 1)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Lighter-1.json"
+      },
+      {
+        "label": "Orangey (Lighter 2)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Lighter-2.json"
+      },
+      {
+        "label": "Orangey (Darker 1)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Darker-1.json"
+      },
+      {
+        "label": "Orangey (Darker 2)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orangey-Darker-2.json"
       }
     ]
   }
